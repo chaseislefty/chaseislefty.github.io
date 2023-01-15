@@ -1,0 +1,150 @@
+div {
+    display: block;
+  }
+  
+  body {
+    font-family: sans-serif;
+    font-size: 13px;
+  }
+  
+  .header-section {
+    background: url("https://media.tenor.com/Z8GdGNlTC5oAAAAC/ready-to-rob-pops-mask.gif") no-repeat;
+    background-size: 100% 100%;
+    padding: 50px;
+    height: 50px;
+  }
+  
+  .header-text {
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+    margin: auto;
+    color: white;
+    size: 100% 100%;
+  }
+  
+  h1 {
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+    margin: auto;
+    color: white;
+    size: 100% 100%;
+  }
+  
+  h2 {
+    font-family: 'Teko', sans-serif;
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+  }
+  
+  .font-label-Teko {
+    font-family: 'Teko', sans-serif;
+    font-size: 22px;
+    text-decoration: underline;
+    
+  }
+  
+  .Teko-400 {
+    font-family: 'Teko', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  
+  .Teko-400-italic {
+    font-family: 'Teko', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .Teko-600 {
+    font-family: 'Teko', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .Teko-600-italic {
+    font-family: 'Teko', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .font-label-Permanent-Marker {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 22px;
+    text-decoration: underline;
+  }
+  
+  .Permanent-Marker {
+      font-family: 'Permanent Marker', cursive;
+      font-size: 18px;
+  }
+  
+  .font-label-Inspiration {
+    font-family: 'Inspiration', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .Inspiration {
+    font-family: 'Inspiration', cursive;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .container {
+    border: 2px solid black;
+    margin: 10px 0px;
+    padding: 10px;
+  }
+  
+  .color-container {
+    width: 100%;
+    margin: 10px;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    margin: 10px auto;
+    padding: 50px auto;
+    min-height: 50px;
+  
+  }
+  
+  .up-maroon {
+    background-color: #7B070B;
+  }
+  
+  .red-ncs {
+    background-color: #BA042D;
+  }
+  
+  .sizzling-red {
+    background-color: #EB4B5B;
+  }
+  
+  .tumbleweed {
+    background-color: #C4A287;
+  }
+  
+  .black {
+    background-color: #000000;
+    color: white;
+  }
+  
+  .white {
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    margin: 1px;
+  }
+  
+  .style-container{
+    font: 'garamond';
+    text-decoration: bold;
+  }
+  
